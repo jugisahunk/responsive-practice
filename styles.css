@@ -1,0 +1,7 @@
+@media screen and (min-width: 480px){
+    body {
+        background-image: url("banner_img_1_1366x500.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
